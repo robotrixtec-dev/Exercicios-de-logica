@@ -12,8 +12,8 @@ inicio
 
     enquanto contador <= 10 faca
         resultado <- numero * contador
-        escreval(numero, " x ", contador, " = ", resultado)
-        contador <- contador + 1
+        escreval(, "  ", contador, " = ", resultado)
+        contador  contador + 1
     fimenquanto
 
 fimalgoritmo
